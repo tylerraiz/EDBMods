@@ -1,0 +1,32 @@
+INTERNAL
+{		
+	name = EDB_Lynx_Int
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_A
+		portraitCameraName = Camera_A
+		allowCrewHelmet = false
+	}
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_B
+		portraitCameraName = Camera_B
+		allowCrewHelmet = false
+	}
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_C
+		portraitCameraName = Camera_C
+		allowCrewHelmet = false
+	}
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_D
+		portraitCameraName = Camera_D
+		allowCrewHelmet = false
+	}
+}
