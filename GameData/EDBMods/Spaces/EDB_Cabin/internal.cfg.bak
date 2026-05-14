@@ -1,0 +1,116 @@
+INTERNAL
+{		
+	name = EDB_Cabin
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_A
+		portraitCameraName = Camera_A
+		allowCrewHelmet = false
+	}
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_B
+		portraitCameraName = Camera_B
+		allowCrewHelmet = false
+	}
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_C
+		portraitCameraName = Camera_C
+		allowCrewHelmet = false
+	}
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = Seat_D
+		portraitCameraName = Camera_D
+		allowCrewHelmet = false
+	}
+	PROP
+	{
+		name = ALCORMFD40x20
+		position = 0.4156,0.143,-1.594
+		rotation = 0,0,0,1
+		scale = 0.7,0.7,0.7
+	}
+	PROP
+	{
+		name = ALCORMFD40x20
+		position = 0.213,0.143,-1.594
+		rotation = 0,0,0,1
+		scale = 0.7,0.7,0.7
+	}
+	PROP
+	{
+		name = ALCORMFD40x20
+		position = -0.208,0.143,-1.594
+		rotation = 0,0,0,1
+		scale = 0.7,0.7,0.7
+	}
+	PROP
+	{
+		name = ALCORMFD40x20
+		position = -0.413,0.143,-1.594
+		rotation = 0,0,0,1
+		scale = 0.7,0.7,0.7
+	}
+	PROP
+	{
+		name = NavBall
+		position = 0.0023,0.291,-1.596
+		rotation = 0.6755903,0,0,0.7372774
+		scale = 1.0,1.0,1.0
+	}
+	PROP
+	{
+		name = NASA_ChargeRateIndicator
+		position = 0.0722,0.2886,-1.5915
+		rotation = 0.6755903,0,0,0.7372774
+		scale = 1.0,1.0,1.0
+	}
+	PROP
+	{
+		name = MasterAlarm
+		position = 0.151,0.35,-1.596
+		rotation = 0.6755903,0,0,0.7372774
+		scale = 1.0,1.0,1.0
+	}
+	PROP
+	{
+		name = ASET_ClockTimer
+		position = -0.578,0.122,-1.574
+		rotation = 0.6755903,0,0,0.7372774
+		scale = 1.0,1.0,1.0
+	}
+	PROP
+	{
+		name = ASET_DSKY
+		position = 0.0041,0.137,-1.588
+		rotation = 0.6755903,0,0,0.7372774
+		scale = 1.0,1.0,1.0
+	}
+	PROP
+	{
+		name = ASET_FDAI-01
+		position = 0.0,0.636,-1.761
+		rotation = 0.6755903,0,0,0.7372774
+		scale = 1.0,1.0,1.0
+	}
+	PROP
+	{
+		name = onRCSIndicator
+		position = 0.0764,0.3494,-1.595
+		rotation = 0.6755903,0,0,0.7372774
+		scale = 1.0,1.0,1.0
+	}
+	PROP
+	{
+		name = onRCSIndicator
+		position = 0.0041,0.3494,-1.595
+		rotation = 0.6755903,0,0,0.7372774
+		scale = 1.0,1.0,1.0
+	}
+}
